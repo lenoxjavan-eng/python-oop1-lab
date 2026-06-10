@@ -8,7 +8,7 @@ You are tasked with building two different classes to aid with representing and 
 
 ## Tools & Resources
 
-* [GitHub Repo](https://github.com/learn-co-curriculum/python-oop1-lab)
+* [Project Repository](https://github.com/lenoxjavan-eng/python-oop1-lab)
 * [Python Classes](https://docs.python.org/3/tutorial/classes.html)
 
 ## Instructions
@@ -127,6 +127,12 @@ Best Practice documentation steps:
 * Delete any stale branches on GitHub
 * Remove unnecessary/commented out code
 * If needed, update git ignore to remove sensitive data 
+
+## Screenshot
+
+Below is a placeholder screenshot demonstrating the implemented `Book` and `Coffee` models. Replace `assets/screenshot.svg` with a real screenshot image if you prefer a photographic capture.
+
+![Book and Coffee placeholder](assets/screenshot.svg)
 
 ## Save your work and push to GitHub
 
